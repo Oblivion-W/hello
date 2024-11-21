@@ -13,14 +13,14 @@
 title: This is Si's Blog
 
 # Your name to show in the footer
-author: Some Person
+author: Sicheng Lu
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "I love pokemon"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
